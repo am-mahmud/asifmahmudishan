@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Verilog, System Verilog and Python**
 
-- 📫 How to reach me **amishan.official@gmail.com**
+- 📫 How to reach me **eng.asifmahmud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
